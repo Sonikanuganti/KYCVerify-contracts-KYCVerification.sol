@@ -1,1 +1,0 @@
-# KYCVerify-contracts-KYCVerification.sol
